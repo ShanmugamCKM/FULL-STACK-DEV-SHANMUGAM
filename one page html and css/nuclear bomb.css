@@ -1,0 +1,144 @@
+body{
+        
+    background-image: url('download.webp');
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    overflow-x: hidden;
+}
+.r1{
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite
+}
+.ncb{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite
+}
+.r2{
+    height: 370px;
+    justify-content: center;
+    align-items: center;
+}
+.r3{
+    color: aliceblue;
+    height: 150px;
+    padding: 5px; 
+}
+.history{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+.c31{
+    height: 80px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: large;
+}
+.c32{
+    font-size: large;
+    height: 80px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: aliceblue
+
+}
+.r4{
+    height: 300px;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 80px;
+    padding: 2px;
+}
+.history1{
+text-align: center;
+font-size: xx-large;   
+}
+.c41{
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.history2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: xx-large;
+} 
+.sc41{
+    height: 120px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+.sc42{
+    height: 120px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+.c42{
+    height: 160px;
+}
+.r5{
+    height: 800px;
+    color: darkorange;
+    background-image:url('6.avif');
+    text-align: center;
+}
+.c51{
+    height: 670px;
+    width: 20%;
+}
+.c52{
+    height: 670px;
+    width: 20%;
+}
+.c53{
+    height: 670px;
+    width: 20%;
+}
+.r6{
+    color: aliceblue;
+    height: 300px;
+    align-items: center;
+    margin-bottom: 20px;
+  
+}
+.history3{
+text-align: center;
+font-size: xx-large;
+} 
+.c61:hover
+{
+    height: 80px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    padding-right: 10px;
+}
+.c62:hover{
+    height: 80px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.img
+{
+    filter: grayscale(100);
+}
+.img:hover
+{
+    filter:none;
+}
